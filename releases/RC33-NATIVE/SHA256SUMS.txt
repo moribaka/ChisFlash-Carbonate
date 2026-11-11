@@ -1,0 +1,2 @@
+d99e4861062edd3e9a39749aaa52b524df16828a14bace29750b89b21fa58f34 *ChisFlash_Native_Modified_PCB.hex
+26fc8440bd50bb349c77aeeddbe6aa04d63167abaec2aea8c36a500282afbe1f *ChisFlash_Native_Original_PCB.hex

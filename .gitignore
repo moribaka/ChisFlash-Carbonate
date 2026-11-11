@@ -1,0 +1,19 @@
+# 构建产物，可随时重新生成
+build_*/
+*.rel
+*.ihx
+*.lst
+*.rst
+*.asm
+*.map
+*.mem
+*.sym
+*.noi
+build.log
+# 插件安装与 Python 缓存
+__pycache__/
+*.pyc
+*.py.bak
+.venv/
+# 固件刷写与调试日志
+*.log

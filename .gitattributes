@@ -1,0 +1,6 @@
+# 源码统一 LF，避免跨平台换行差异
+* text=auto eol=lf
+
+# HEX 是字节级产物，必须原样保存，任何换行转换都会让 SHA-256 对不上
+*.hex -text
+*.bin -text
